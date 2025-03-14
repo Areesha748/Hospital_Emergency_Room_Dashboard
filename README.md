@@ -22,11 +22,13 @@ This **Hospital Emergency Room Dashboard** is designed to provide an interactive
 - Data Visualization (Dashboard Design)
 
  ## 📂 Dataset
-- The dataset consists of patient records, including **Patient ID, admission date and time, patient name, gender, age, race, wait time, department referrals, admission status and satisfaction score.
+- The dataset consists of patient records, including Patient ID, admission date and time, patient name, gender, age, race, wait time, department referrals, admission status and satisfaction score.
 - Data was cleaned and structured using Power Query before visualization.
 
 ## 💡 Insights & Learnings
-- The majority of patients are referred to General Practice, followed by Orthopedics.
-- Average wait time is 36.32 minutes, impacting patient satisfaction.
-- Time Status shows 62% of patients were attended
+- The dashboard allows dynamic filtering, enabling users to explore trends for different months and years.
+- Patient admissions and wait times can be analyzed over time to identify seasonal patterns or operational inefficiencies.
+- Department referrals help hospitals understand which specialties receive the most patients, assisting in resource allocation.
+- Time status analysis (on-time vs. delayed cases) provides insights into emergency room efficiency.
+- Gender and age group distribution helps identify patient demographics, aiding in better healthcare planning.
 
