@@ -16,7 +16,7 @@ This **Hospital Emergency Room Dashboard** is designed to provide an interactive
   - Bar charts for department referrals
   - Pie charts for gender distribution and time status (on-time vs. delay)
   - Column charts for age group distribution
-- Clean and Professional Design: Organized layout with clearly defined sections.
+- **Clean and Professional Design:** Organized layout with clearly defined sections.
 
 ## 🛠️ Tools & Skills Used
 - Microsoft Excel (Pivot Tables, Charts, Filters, Conditional Formatting)
