@@ -20,16 +20,12 @@ This **Hospital Emergency Room Dashboard** is designed to provide an interactive
 - Microsoft Excel (Pivot Tables, Charts, Filters, Conditional Formatting)
 - Power Query (Data Cleaning & Transformation)
 - Data Visualization (Dashboard Design)
-- Formulas Used: SUM, AVERAGE, COUNTIF, IF, VLOOKUP, INDEX MATCH, SUMIF
 
- 📂 Dataset
-- The dataset consists of patient records, including **transaction ID, admission status, wait time, department referrals, gender, and age groups.
+ ## 📂 Dataset
+- The dataset consists of patient records, including **Patient ID, admission date and time, patient name, gender, age, race, wait time, department referrals, admission status and satisfaction score.
 - Data was cleaned and structured using Power Query before visualization.
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot]()
-
-💡 Insights & Learnings
+## 💡 Insights & Learnings
 - The majority of patients are referred to General Practice, followed by Orthopedics.
 - Average wait time is 36.32 minutes, impacting patient satisfaction.
 - Time Status shows 62% of patients were attended
